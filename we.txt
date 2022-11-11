@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-git 上修改的内容 这一次i需噶
-爹三修改
-=======
-本地修改了提交
->>>>>>> 4ea3afd353b46a5b6c8e1fe5da357314a6d6d1b4
+jfwlekfjwlaefjwlkfj
